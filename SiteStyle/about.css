@@ -172,6 +172,7 @@ h2 span {
 }
 
 .footer {
+  position: absoute;
   bottom: 0;
   width: 100%;
   height: 2.5rem;
